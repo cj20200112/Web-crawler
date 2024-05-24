@@ -13,6 +13,9 @@ from google.colab import files
 from IPython.display import Image  
 
 # 效果展示
-![下載 (2)](https://github.com/cj20200112/Web-crawler/assets/166897672/3fb0f471-2e7d-40d6-9482-1050e0ece166)
-![下載](https://github.com/cj20200112/Web-crawler/assets/166897672/2a170c09-9462-49ea-966b-19dcd2d85684)
+地震消息推播  
+![下載 (2)](https://github.com/cj20200112/Web-crawler/assets/166897672/3fb0f471-2e7d-40d6-9482-1050e0ece166)  
+防曬提醒推播  
+![下載](https://github.com/cj20200112/Web-crawler/assets/166897672/2a170c09-9462-49ea-966b-19dcd2d85684)  
+股價波動推播  
 ![下載 (1)](https://github.com/cj20200112/Web-crawler/assets/166897672/7707d121-3d40-45ce-a4d6-4881ca720881)
