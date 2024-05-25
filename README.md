@@ -3,14 +3,7 @@
 整合以上資訊，以手動、定時與即時推播Line Notify提供資訊。  
 
 # 使用套件
-import schedule  
-import time  
-import json  
-import requests  
-import threading  
-import pandas as pd  
-from google.colab import files  
-from IPython.display import Image  
+ schedule、time、json、requests、threading、pandas、google.colab.files、IPython.display.Image  
 
 # 效果展示
 地震消息推播  
